@@ -51,7 +51,7 @@ help (pull-requests!) with the following work items:
 
 ### Requirements
 
-* A modern Linux distribution. E.g. Ubuntu 20.04 LTS 64-bit or later.
+* A modern Linux distribution. E.g. Fedora 33 64-bit or later.
 
 * QEMU >= 4.2.0
 
