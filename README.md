@@ -1,3 +1,6 @@
+### Fork Note
+This is forked kholia/OSX-KVM with the intent of adapting it to Fedora and as such most of the credit and all the *not distro specific* questions are best directed to them. 
+
 ### Note
 
 This `README.md` documents the process of creating a `Virtual Hackintosh`
